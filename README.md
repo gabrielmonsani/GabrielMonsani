@@ -7,8 +7,6 @@
 ## Sobre mim
 Sou Gabriel, tenho 18 anos e atualmente curso o quarto período de Engenharia de Software. Trabalho como estagiário em desenvolvimento full-stack na **Friella**, onde estou consolidando minhas habilidades técnicas, aprendendo a colaborar efetivamente em equipe e desenvolvendo soluções que gerem valor e impacto positivo nos projetos.
 
-Apaixonado por tecnologia e inovação, estou sempre em busca de oportunidades para crescer profissionalmente e contribuir para o sucesso dos projetos que integro.
-
 ---
 
 ## Tecnologias
