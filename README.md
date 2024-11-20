@@ -20,7 +20,8 @@ Sou Gabriel, tenho 18 anos e atualmente curso o quarto período de Engenharia de
 ---
 
 ## Contato 📫
-■ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-eduardo-monsani-666593254/)  
-■ **Email:** gabrieleduardomonsani@hotmail.com
+• [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-eduardo-monsani-666593254/)  
+• **Email:** gabrieleduardomonsani@hotmail.com
+
 
 
