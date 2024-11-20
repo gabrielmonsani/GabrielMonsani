@@ -5,7 +5,7 @@
 ---
 
 ## Sobre mim
-Sou Gabriel, tenho 18 anos e atualmente curso o quarto período de Engenharia de Software no Centro Universitário Vale do Iguaçu (Uniguaçu). Trabalho como estagiário em desenvolvimento full-stack na **Friella**, onde estou consolidando minhas habilidades técnicas, aprendendo a colaborar efetivamente em equipe e desenvolvendo soluções que gerem valor e impacto positivo nos projetos.
+Sou Gabriel, tenho 18 anos e atualmente curso o quarto período de Engenharia de Software no Centro Universitário Vale do Iguaçu (Uniguaçu). Trabalho como estagiário em desenvolvimento full-stack na empresa **Friella**, onde estou consolidando minhas habilidades técnicas, aprendendo a colaborar efetivamente em equipe e desenvolvendo soluções que gerem valor e impacto positivo nos projetos.
 
 ---
 
