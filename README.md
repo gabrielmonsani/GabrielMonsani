@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel! 👋
 
 ## Sobre mim
-Sou Gabriel, tenho 19 anos e atualmente curso o quinto período de Engenharia de Software no Centro Universitário Vale do Iguaçu (Uniguaçu). Trabalho como desenvolvedor full-stack na empresa **Friella**, onde estou consolidando minhas habilidades técnicas, aprendendo a colaborar efetivamente em equipe e desenvolvendo soluções que gerem valor e impacto positivo nos projetos.
+Sou Gabriel, tenho 19 anos e atualmente curso o quinto período de Engenharia de Software no Centro Universitário Vale do Iguaçu (Uniguaçu). Trabalho como desenvolvedor full stack na empresa **Friella**, onde estou consolidando minhas habilidades técnicas, aprendendo a colaborar efetivamente em equipe e desenvolvendo soluções que gerem valor e impacto positivo nos projetos.
 
 ---
 
